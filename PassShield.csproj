@@ -154,7 +154,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Logo.ico" />
-    <None Include="Resources\Untitled-13x.png" />
+    <Content Include="Resources\miniLogo.png" />
     <None Include="Resources\logo.png" />
   </ItemGroup>
   <ItemGroup>

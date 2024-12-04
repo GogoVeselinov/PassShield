@@ -103,15 +103,17 @@
             this.label2.Text = "PassShield";
             // 
             // pictureBox1
-            // 
-            this.pictureBox1.Image = global::PassShield.Properties.Resources.logo;
-            this.pictureBox1.InitialImage = global::PassShield.Properties.Resources.logo;
+            //
+
+            //this.pictureBox1.Image = global::PassShield.Properties.Resources.logo;
+            //this.pictureBox1.InitialImage = global::PassShield.Properties.Resources.logo;
             this.pictureBox1.Location = new System.Drawing.Point(22, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(84, 85);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
+
             // 
             // ShowPass1
             // 
